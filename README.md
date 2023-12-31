@@ -1,16 +1,30 @@
 ### Hi there 👋
+## Welcome to My GitHub Profile! 👋
 
-<!--
-**sharmaarjun1228/sharmaarjun1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Arjun Sharma - Data Analyst & Web Developer
 
-Here are some ideas to get you started:
+Hello! I'm Arjun, a Data Analyst and Web Developer from Indore, Madhya Pradesh. I combine my passion for data and web technologies to create insightful data visualizations and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Educational Background
+- **MCA in Computer Science:** University of Institute of Technology, B.U. (85.05% GPA)
+- **BSc in Computer Science:** Barkatullah University, Bhopal
+
+### 💼 Professional Skills
+- **Data Analysis:** Proficient in Pandas, Matplotlib, Excel, Power BI
+- **Web Development:** Skilled in HTML, CSS, JavaScript, PHP
+- **Internship Experience:** Accenture and TATA in Data Analytics and Visualization
+
+### 🌟 Highlights
+- **Certifications:** Data Analytics (Accenture), Tata Data Visualisation (Tata Group), Web Development Bootcamp (Udemy)
+- **Interests:** Photography, Painting, Sketching
+
+### 🎯 Career Goal
+To apply my data analysis and web development skills in challenging projects, contributing significantly to organizational success.
+
+### 📫 Connect with Me
+- **Email:** [sharmaarjun1228@gmail.com](mailto:sharmaarjun1228@gmail.com)
+- **LinkedIn:** [Arjun Sharma](https://linkedin.com/in/arjunsharma1228)
+- **Phone:** +91 9009397233
+
+Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
+
