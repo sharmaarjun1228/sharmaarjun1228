@@ -17,6 +17,19 @@ Hello! I'm Arjun, a Data Analyst and Web Developer from Indore, Madhya Pradesh. 
 ### 🌟 Highlights
 - **Certifications:** Data Analytics (Accenture), Tata Data Visualisation (Tata Group), Web Development Bootcamp (Udemy)
 - **Interests:** Photography, Painting, Sketching
+- 
+### :hammer_and_wrench: Languages and Tools :
+<a href="URL_REDIRECT" target="blank" class="disabled"><img align="center" src="https://img.icons8.com/color/512/python.png" height="50" title="Python" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/ms-excel.png" height="50" title="MS.Excel" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/pandas.png" height="50" title="Pandas" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/numpy.png" height="50" title="Numpy" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/selenium-test-automation.png" height="50" title="Selenium" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/external-soft-fill-juicy-fish/512/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" height="50" title="SQL"/></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/postgreesql.png" height="50" title="PostgreSQL" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/console.png" height="50" title="Bash" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/lua-language.png" height="50" title="Lua" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/512/amazon-alexa-logo.png" height="50" title="Alexa" /></a>
+
 
 ### 🎯 Career Goal
 To apply my data analysis and web development skills in challenging projects, contributing significantly to organizational success.
