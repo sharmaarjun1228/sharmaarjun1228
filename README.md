@@ -1,4 +1,20 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/arjunsharma1228">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="arjunkumarsharma1228@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="gmail badge"/>
+  </a>
+</div>
+
 ## Welcome to My GitHub Profile! 👋
 
 # Arjun Sharma - Data Analyst & Web Developer
